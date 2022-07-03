@@ -1,0 +1,80 @@
+{
+  "add-city": [
+    {
+      "cityname": "newyork",
+      "population": "1111111",
+      "country": "america",
+      "id": 5
+    },
+    {
+      "cityname": "pune ",
+      "population": "334345566",
+      "country": "india",
+      "id": 6
+    },
+    {
+      "cityname": "nashik",
+      "population": "1222222",
+      "country": "india",
+      "id": 7
+    },
+    {
+      "cityname": "banglore",
+      "population": "453424234",
+      "country": "india",
+      "id": 9
+    },
+    {
+      "cityname": "lahore",
+      "population": "1111111",
+      "country": "pakistan",
+      "id": 10
+    },
+    {
+      "cityname": "toranto",
+      "population": "2323435",
+      "country": "canada",
+      "id": 11
+    },
+    {
+      "cityname": "mumbai",
+      "population": "12334566555",
+      "country": "india",
+      "id": 12
+    }
+  ],
+  "add-country": [
+    {
+      "country": "pakistan",
+      "id": 3
+    },
+    {
+      "country": "india",
+      "id": 4
+    },
+    {
+      "country": "bangladesh",
+      "id": 5
+    },
+    {
+      "country": "",
+      "id": 6
+    },
+    {
+      "country": "america",
+      "id": 7
+    },
+    {
+      "country": "canada",
+      "id": 8
+    },
+    {
+      "country": "nepal",
+      "id": 9
+    },
+    {
+      "country": "",
+      "id": 10
+    }
+  ]
+}
