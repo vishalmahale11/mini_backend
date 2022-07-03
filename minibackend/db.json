@@ -1,80 +1,164 @@
 {
-  "add-city": [
-    {
-      "cityname": "newyork",
-      "population": "1111111",
-      "country": "america",
-      "id": 5
-    },
-    {
-      "cityname": "pune ",
-      "population": "334345566",
-      "country": "india",
-      "id": 6
-    },
-    {
-      "cityname": "nashik",
-      "population": "1222222",
-      "country": "india",
-      "id": 7
-    },
-    {
-      "cityname": "banglore",
-      "population": "453424234",
-      "country": "india",
-      "id": 9
-    },
-    {
-      "cityname": "lahore",
-      "population": "1111111",
-      "country": "pakistan",
-      "id": 10
-    },
-    {
-      "cityname": "toranto",
-      "population": "2323435",
-      "country": "canada",
-      "id": 11
-    },
-    {
-      "cityname": "mumbai",
-      "population": "12334566555",
-      "country": "india",
-      "id": 12
-    }
+  "posts": [
+  {
+  "id": 1,
+  "title": "UDIPI",
+  "rest_name": "Bambooz",
+  "img": "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+  "rating": 4,
+  "review": 542,
+  "vote": 541,
+  "details": "one of the best restaurant",
+  "priceForTwo": 544,
+  "minPrice": 255,
+  "card": true,
+  "cash": true,
+  "UPI": true
+  },
+  {
+  "id": 2,
+  "title": "KAHNDVI",
+  "rest_name": "Bambooz",
+  "img": "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+  "rating": 5,
+  "review": 487,
+  "vote": 54165,
+  "details": "one of the best restaurant",
+  "priceForTwo": 600,
+  "minPrice": 250,
+  "card": true,
+  "cash": true,
+  "UPI": true
+  },
+  {
+  "id": 3,
+  "title": "Nuggets",
+  "rest_name": "Bambooz",
+  "img": "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+  "rating": 2,
+  "review": 555,
+  "vote": 54787,
+  "details": "one of the best restaurant",
+  "priceForTwo": 120,
+  "minPrice": 80,
+  "card": true,
+  "cash": true,
+  "UPI": false
+  },
+  {
+  "id": 4,
+  "title": "Panjabi",
+  "rest_name": "Bambooz",
+  "img": "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+  "rating": 4,
+  "review": 540,
+  "vote": 120,
+  "details": "one of the best restaurant",
+  "priceForTwo": 555,
+  "minPrice": 150,
+  "card": true,
+  "cash": false,
+  "UPI": true
+  },
+  {
+  "id": 5,
+  "title": "Continental",
+  "rest_name": "Bambooz",
+  "img": "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+  "rating": 4,
+  "review": 555,
+  "vote": 578,
+  "details": "one of the best restaurant",
+  "priceForTwo": 502,
+  "minPrice": 212,
+  "card": false,
+  "cash": true,
+  "UPI": true
+  },
+  {
+  "id": 6,
+  "title": "Salad",
+  "rest_name": "Bambooz",
+  "img": "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+  "rating": 4,
+  "review": 542,
+  "vote": 541,
+  "details": "one of the best restaurant",
+  "priceForTwo": 524,
+  "minPrice": 54,
+  "card": true,
+  "cash": true,
+  "UPI": true
+  },
+  {
+  "id": 7,
+  "title": "Maharastrian",
+  "rest_name": "Bambooz",
+  "img": "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+  "rating": 3,
+  "review": 542,
+  "vote": 541,
+  "details": "one of the best restaurant",
+  "priceForTwo": 524,
+  "minPrice": 55,
+  "card": true,
+  "cash": true,
+  "UPI": true
+  },
+  {
+  "id": 8,
+  "title": "UDIPI",
+  "rest_name": "Bambooz",
+  "img": "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+  "rating": 3,
+  "review": 542,
+  "vote": 52121,
+  "details": "one of the best restaurant",
+  "priceForTwo": 54,
+  "minPrice": 25,
+  "card": true,
+  "cash": true,
+  "UPI": true
+  },
+  {
+  "id": 9,
+  "title": "UDIPI",
+  "rest_name": "Bambooz",
+  "img": "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+  "rating": 4,
+  "review": 542,
+  "vote": 541,
+  "details": "one of the best restaurant",
+  "priceForTwo": 544,
+  "minPrice": 255,
+  "card": true,
+  "cash": true,
+  "UPI": true
+  },
+  {
+  "id": 10,
+  "title": "UDIPI",
+  "rest_name": "Bambooz",
+  "img": "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+  "rating": 4,
+  "review": 542,
+  "vote": 541,
+  "details": "one of the best restaurant",
+  "priceForTwo": 544,
+  "minPrice": 255,
+  "card": true,
+  "cash": true,
+  "UPI": true
+  }
   ],
-  "add-country": [
-    {
-      "country": "pakistan",
-      "id": 3
-    },
-    {
-      "country": "india",
-      "id": 4
-    },
-    {
-      "country": "bangladesh",
-      "id": 5
-    },
-    {
-      "country": "",
-      "id": 6
-    },
-    {
-      "country": "america",
-      "id": 7
-    },
-    {
-      "country": "canada",
-      "id": 8
-    },
-    {
-      "country": "nepal",
-      "id": 9
-    },
-    {
-      "country": "",
-      "id": 10
-    }
-  ]
-}
+  "comments": [
+  {
+  "id": 1,
+  "body": "some comment",
+  "postId": 1
+  }
+  ],
+  "profile": {
+  "name": "typicode"
+  }
+  }
