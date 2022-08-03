@@ -1,76 +1,53 @@
 {
-  "posts": [
+  "task": [
     {
-      "name": "John",
-      "salary" : 240000,
-      "specialisation": "Nephrology",
+      "task" : "Create app and make a fetch request by using axios",
       "id":1
       
     },
     {
-      "name": "Aditya",
-      "salary" : 200000,
-      "specialisation": "General",
-      "id":2
+      "task" : "Create app and make a fetch request by using axios",
+      "id": 2
     },
     {
-      "name": "Kanav",
-      "salary" : 240000,
-      "specialisation": "Heart",
-      "id":3
+      "task" : "Create app and make a fetch request by using axios",
+      "id": 3
     },
     {
-      "name": "Manish",
-      "salary" : 200000,
-      "specialisation": "Neuro",
+      "task" : "Create app and make a fetch request by using axios",
       "id":4
+      
     },
     {
-      "name": "Ahir",
-      "salary" : 250000,
-      "specialisation": "Accident",
+      "task" : "Create app and make a fetch request by using axios",
       "id":5
+      
     },
     {
-      "name": "Bahirav",
-      "salary" : 3000000,
-      "specialisation": "ENT",
+      "task" : "Create app and make a fetch request by using axios",
       "id":6
+      
     },
     {
-      "name": "Kashinaath",
-      "salary" : 50000,
-      "specialisation": "Eye Specialist",
+      "task" : "Create app and make a fetch request by using axios",
       "id":7
+      
     },
     {
-      "name": "Baba Ramdev",
-      "salary" : 30000,
-      "specialisation": "Radiologist",
+      "task" : "Create app and make a fetch request by using axios",
       "id":8
+      
     },
     {
-      "name": "Joshi",
-      "salary" : 200000,
-      "specialisation": "Knee",
+      "task" : "Create app and make a fetch request by using axios",
       "id":9
+      
     },
     {
-      "name": "Aditya",
-      "salary" : 200000,
-      "specialisation": "Chakkar",
+      "task" : "Create app and make a fetch request by using axios",
       "id":10
+      
     }
 
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
